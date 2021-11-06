@@ -1,1 +1,1 @@
-IDE: Visual Studio Code 2019 w/ Node.js
+IDE: Visual Studio Code w/ Node.js
