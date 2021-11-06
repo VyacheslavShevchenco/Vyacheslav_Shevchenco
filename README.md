@@ -1,1 +1,1 @@
-IDE: Visual Studio Code w/ Node.js.
+IDE: Visual Studio Code w/ Node.js
