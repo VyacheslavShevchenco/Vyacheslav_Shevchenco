@@ -4,6 +4,6 @@ Create scenario
   - GetFileMetadata
   - Delete file ;
 run test:
-npm install
-npm install mocha-teamcity-reporter
-npm run mocha --no-timeouts --reporter mochawesome
+(lines 1)npm install
+(lines 2)npm install mocha-teamcity-reporter
+(lines 3)npm run mocha --no-timeouts --reporter mochawesome
