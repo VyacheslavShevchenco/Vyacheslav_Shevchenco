@@ -2,7 +2,7 @@ Refer to this API: https://www.dropbox.com/developers/documentation/http/documen
 create scenario 
 - Upload
 - GetFileMetadata
-- Delete file
+- Delete file ;
   run test:
     npm install
     npm install mocha-teamcity-reporter
